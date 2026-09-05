@@ -1,6 +1,6 @@
 # Hi, I'm Yash Mungra 👋
 
-### Frontend Developer | C++ & DSA | Competitive Programming
+### Frontend Developer | C++ & Python & DSA | Competitive Programming
 
 I’m a developer focused on building web applications and improving my
 problem-solving skills through Data Structures & Algorithms.
@@ -23,6 +23,7 @@ problem-solving skills through Data Structures & Algorithms.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,17 +38,6 @@ problem-solving skills through Data Structures & Algorithms.
 
 I regularly practice DSA and competitive programming to improve
 problem-solving and algorithmic thinking.
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Focus Flow
-A productivity-focused web application for managing tasks and
-tracking focus sessions.
-
-### 🔹 Codeforces Solutions
-A collection of my C++ solutions to Codeforces problems.
 
 ---
 
