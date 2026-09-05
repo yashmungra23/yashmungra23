@@ -53,8 +53,7 @@ A collection of my C++ solutions to Codeforces problems.
 
 ## 📊 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashmungra23&show_icons=true&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=yashmungra23)
 ---
 
 ## 🔗 Connect With Me
