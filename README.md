@@ -1,33 +1,27 @@
+### 🚀 About Me
+
 # Hi, I'm Yash Mungra 👋
 
-### Frontend Developer | C++ & Python & DSA | Competitive Programming
+## Frontend Developer | C++ & Python & DSA | Competitive Programming
 
 I’m a developer focused on building web applications and improving my
 problem-solving skills through Data Structures & Algorithms.
 
 ---
 
-## 🚀 About Me
-
-- 💻 Frontend Developer
-- 🧠 Practicing Data Structures & Algorithms
-- ⚡ Solving problems on Codeforces and LeetCode
-- 🌱 Currently improving my C++/Python and problem-solving skills
-- 🛠️ Building projects to strengthen my development skills
-
----
-
-## 💻 Tech Stack
+## 💻 Tech Skills
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=cpp,c,python,js)
+
+### Web Development
+
+![Web Development](https://skillicons.dev/icons?i=html,css,js)
+
+### Tools & Technologies
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,matlab)
 
 ---
 
@@ -39,11 +33,6 @@ problem-solving skills through Data Structures & Algorithms.
 I regularly practice DSA and competitive programming to improve
 problem-solving and algorithmic thinking.
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yashmungra23)
 ---
 
 ## 🔗 Connect With Me
